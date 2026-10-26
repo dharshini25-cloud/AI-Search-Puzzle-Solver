@@ -232,15 +232,21 @@ streamlit run app.py
 
 ## 📸 Interface Screenshots
 
-| Module View | Preview |
-|---|---|
-| **Home Dashboard** | ![Dashboard](docs/screenshots/dashboard.png) |
-| **8-Puzzle Solver & Step Playback** | ![8-Puzzle Solver](docs/screenshots/puzzle_solver.png) |
-| **Graph Search Solver** | ![Graph Search](docs/screenshots/graph_search.png) |
-| **Water Jug Solver** | ![Water Jug Solver](docs/screenshots/water_jug.png) |
 
-*(To populate screenshots locally, capture interface views and store them in `docs/screenshots/`)*
+### Home Dashboard
+![Home Dashboard](docs/screenshots/dashboard.png)
 
+### 8-Puzzle Solver
+![8-Puzzle Solver](docs/screenshots/puzzle_solver.png)
+
+### Graph Search
+![Graph Search](docs/screenshots/graph_search.png)
+
+### Water Jug Solver — View 1
+![Water Jug Solver View 1](docs/screenshots/water_jug_solver1.png)
+
+### Water Jug Solver — View 2
+![Water Jug Solver View 2](docs/screenshots/water_jug_solver2.png)
 ---
 
 ## 📐 Algorithm Implementations & Mathematical Formulations
